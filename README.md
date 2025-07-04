@@ -1,6 +1,6 @@
 # Identify Customer Segments
 
-A complete, end‑to‑end workflow for discovering meaningful clusters in a general‑population demographics dataset using modern Python **(≥ 3.11)**, scikit‑learn, and complementary data‑science libraries. The project walks through data cleaning, feature engineering, dimensionality reduction, clustering, evaluation, and interpretation—wrapping everything in reproducible notebooks and scripts.
+A complete, end‑to‑end workflow for discovering meaningful clusters in a general‑population demographics dataset using modern Python **(≥ 3.11)**, scikit‑learn, and complementary data‑science libraries. The project walks through data cleaning, feature engineering, dimensionality reduction, clustering, evaluation, and interpretation wrapping everything in reproducible notebooks and scripts.
 
 ---
 
@@ -13,35 +13,6 @@ A complete, end‑to‑end workflow for discovering meaningful clusters in a gen
 * **Rich visualizations**—elbow curve, silhouette plot, cluster heatmaps, and interactive embeddings.
 * **Jupyter + CLI**: run the whole analysis in notebooks or headless via the command line.
 * **Reproducible environment**: lockfile for exact package versions and Makefile targets for common tasks.
-
----
-
-## 📂 Repository Layout
-
-```
-├── data/                 # Raw & processed datasets (git‑ignored by default)
-│   ├── raw/              # Original CSV / Parquet files
-│   └── processed/        # Cleaned & feature‑engineered outputs
-├── notebooks/            # Exploratory & report notebooks
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_pca.ipynb
-│   ├── 03_clustering.ipynb
-│   └── 04_results.ipynb
-├── src/                  # Reusable Python modules
-│   ├── config.py         # Global paths & constants
-│   ├── data_prep.py      # Cleaning & imputation pipeline
-│   ├── features.py       # Encoding & scaling utilities
-│   ├── dimensionality.py # PCA helpers
-│   ├── clustering.py     # Model training & evaluation
-│   └── viz.py            # Plotting utilities
-├── results/              # Generated figures & tables
-├── models/               # Saved PCA + clustering models (joblib)
-├── environment.yml       # Conda‑style lockfile (exact versions)
-├── requirements.txt      # Same versions for pip users
-├── Makefile              # One‑command workflow shortcuts
-├── .gitignore
-└── README.md             # ← you are here
-```
 
 ---
 
@@ -81,7 +52,7 @@ pip install -r requirements.txt
 1. **Clone** the repo
 
    ```bash
-   git clone https://github.com/<your‑handle>/customer‑segments.git
+   git clone https:github.com/amroadnan22/udacity_Clustering_Customer_Segments.git
    cd customer‑segments
    ```
 2. **Install** dependencies (see above).
@@ -166,5 +137,5 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 ## 🙋‍♂️ Contact
 
 **Amro Adnan Badran**
-\<your‑[amroadnanb@gmail.com](mailto:amroadnanb@gmail.com)>
+\<[amroadnanb@gmail.com](mailto:amroadnanb@gmail.com)>
 Questions? Ideas? Feel free to open an issue or email me directly.
