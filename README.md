@@ -137,5 +137,5 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 ## 🙋‍♂️ Contact
 
 **Amro Adnan Badran**
-\<[amroadnanb@gmail.com](mailto:amroadnanb@gmail.com)>
+\[amroadnanb@gmail.com](mailto:amroadnanb@gmail.com)
 Questions? Ideas? Feel free to open an issue or email me directly.
