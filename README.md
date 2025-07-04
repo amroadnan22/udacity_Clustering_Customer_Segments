@@ -166,5 +166,5 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 ## 🙋‍♂️ Contact
 
 **Amro Adnan Badran**
-\<your‑[email@example.com](mailto:email@example.com)>
+\<your‑[amroadnanb@gmail.com](mailto:amroadnanb@gmail.com)>
 Questions? Ideas? Feel free to open an issue or email me directly.
