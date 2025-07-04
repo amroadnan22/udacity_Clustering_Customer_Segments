@@ -134,6 +134,11 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 
 ---
 
+
+This project is based on Udacity's educational content,
+licensed under Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License.
+See: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
 ## 🙋‍♂️ Contact
 
 **Amro Adnan Badran**
